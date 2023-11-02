@@ -2,6 +2,7 @@ public class whileLoop{
     public static void main(String[]args){
         System.out.print("The factors for 24 is: ");
         whileLoops(24);
+        System.out.println("");
         countPrimes(47);
 
     } 
